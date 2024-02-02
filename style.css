@@ -1,0 +1,41 @@
+
+
+body{
+ background-color: lightcyan;
+ font-family: Arial, Helvetica, sans-serif; 
+
+}
+   
+
+.One{
+width: 250px;
+height: 250px;
+position: relative;
+
+}
+
+.Two{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 400px;
+    top: 0;
+}
+    
+.Three{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    left: 800px;
+    top: 0;
+}
+
+.Container{
+ width: 150px;
+ height: 150px;
+ position: relative;
+ left: 1090px;
+ bottom: 250px;
+}
+
+
